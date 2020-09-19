@@ -11,7 +11,7 @@ Musicologie -> oreille-absolue
     -> https://github.com/moueza/fun-mooc-L-ecoute-en-jeu-une-introduction-a-la-musicologie-94002
     -> MIDI -> https://gitlab.com/moueza/mida
 Quantum ->IBM (3/3) https://www.youtube.com/watch?v=aDAJ71SCrq4
-        -> 
+        -> IBM -> https://quantum-computing.ibm.com/docs/learn-qc/#learn-quantum
         
 IBM -> café
              -> garage
