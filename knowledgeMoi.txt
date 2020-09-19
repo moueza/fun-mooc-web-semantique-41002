@@ -46,3 +46,5 @@ Intelligence->Collective Intelligence -> isbn Agents link
                           -> https://moueza.github.io/amp/programme-electoral-elections-peter-moueza.html
 Intelligence->Reinforcement intelligence
 Intelligence->Iqqi
+
+Web semantique internationnalisation i18n
