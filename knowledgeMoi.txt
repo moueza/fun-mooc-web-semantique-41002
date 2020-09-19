@@ -27,7 +27,7 @@ heart -> ECG EKG -> MRI -> image processing -> script Fu
 plugins
 
 sport -> tennis
-      -> marathon
+      -> marathon -> VO2 max -> Polar
            -> triathlon
            -> bike
            
