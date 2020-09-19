@@ -15,4 +15,5 @@ Quantum ->IBM (3/3) https://www.youtube.com/watch?v=aDAJ71SCrq4
 IBM -> café
              -> garage
                  -> Watson
-                     -> Geopardy -> NLP -> equipe Nantes
+                     -> Geopardy -> NLP -> equipe Nantes TALN
+   -> Bluemix http://developer.ibm.com/bluemix/2015/10/19/the-devil-in-the-details-driving-change-from-within/
