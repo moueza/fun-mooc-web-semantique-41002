@@ -22,7 +22,7 @@ IBM -> café
 
 heart -> ECG EKG -> MRI -> image processing -> script Fu
                                              -> Segmentation (Intelligence-> Deep Learning)
-   -> Visible human project
+   -> Human Visible Project
 
 plugins
 
