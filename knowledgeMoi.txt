@@ -21,6 +21,7 @@ IBM -> café
 
 
 heart -> ECG EKG -> MRI -> image processing -> script Fu
+   -> Visible human project
 
 plugins
 
