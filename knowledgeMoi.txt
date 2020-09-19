@@ -21,6 +21,7 @@ IBM -> café
 
 
 heart -> ECG EKG -> MRI -> image processing -> script Fu
+                                             -> Segmentation (Intelligence-> Deep Learning)
    -> Visible human project
 
 plugins
@@ -38,6 +39,7 @@ sport -> tennis
  
  IT languages -> Golang
              -> COBOL
+             -> Prolog
              
 Nantes -> Les geants
      -> Laennec -> ECG link
