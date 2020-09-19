@@ -36,4 +36,7 @@ sport -> tennis
  IT languages -> Golang
              -> COBOL
              
-     Nantes -> Les geants
+Nantes -> Les geants
+     -> Laennec -> ECG link
+Collective Intelligence -> isbn Agents link
+                          -> https://moueza.github.io/amp/programme-electoral-elections-peter-moueza.html
