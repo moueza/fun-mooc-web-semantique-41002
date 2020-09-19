@@ -9,6 +9,7 @@ embryology ->https://planet-vie.ens.fr/thematiques/animaux/developpement-embryon
 
 Musicologie -> oreille-absolue
     -> https://github.com/moueza/fun-mooc-L-ecoute-en-jeu-une-introduction-a-la-musicologie-94002
+    -> MIDI -> https://gitlab.com/moueza/mida
 Quantum ->IBM (3/3) https://www.youtube.com/watch?v=aDAJ71SCrq4
         -> 
         
@@ -19,7 +20,7 @@ IBM -> café
    -> Bluemix http://developer.ibm.com/bluemix/2015/10/19/the-devil-in-the-details-driving-change-from-within/
 
 
-heart -> ECG EKG -> MRI -> image processing
+heart -> ECG EKG -> MRI -> image processing -> script Fu
 
 plugins
 
