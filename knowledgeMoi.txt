@@ -51,3 +51,5 @@ Intelligence->Reinforcement intelligence
 Intelligence->Iqqi
 
 Web semantique internationnalisation i18n
+
+Fuzzy logic : https://www.geeksforgeeks.org/prolog-an-introduction/
