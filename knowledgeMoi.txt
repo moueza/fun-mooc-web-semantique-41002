@@ -53,3 +53,5 @@ Intelligence->Iqqi
 Web semantique internationnalisation i18n
 
 Fuzzy logic : https://www.geeksforgeeks.org/prolog-an-introduction/
+
+Web scraping (crawlers): https://www.geeksforgeeks.org/introduction-to-web-scraping/?ref=rp
