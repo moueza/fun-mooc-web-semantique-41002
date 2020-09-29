@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:voc="http://www.unice.fr/voc#"
+>
+  <rdf:Description rdf:about="http://www.unice.fr/data#Margot">
+    <voc:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</voc:age>
+    <voc:hasChild rdf:resource="http://www.unice.fr/data#Simon"/>
+    <voc:hasSpouse rdf:resource="http://www.unice.fr/data#Arthur"/>
+    <rdf:type rdf:resource="http://www.unice.fr/voc#Journalist"/>
+    <voc:hasChild rdf:resource="http://www.unice.fr/data#Marie"/>
+    <voc:name>Margot</voc:name>
+    <rdf:type rdf:resource="http://www.unice.fr/voc#Woman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.unice.fr/data#Marie">
+    <rdf:type rdf:resource="http://www.unice.fr/voc#Woman"/>
+    <voc:name>Marie</voc:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.unice.fr/data#Arthur">
+    <voc:hasChild rdf:resource="http://www.unice.fr/data#Simon"/>
+    <voc:name>Arthur</voc:name>
+    <voc:hasChild rdf:resource="http://www.unice.fr/data#Marie"/>
+    <rdf:type rdf:resource="http://www.unice.fr/voc#Man"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.unice.fr/data#Simon">
+    <rdf:type rdf:resource="http://www.unice.fr/voc#Man"/>
+    <voc:name>Simon</voc:name>
+  </rdf:Description>
+</rdf:RDF>
