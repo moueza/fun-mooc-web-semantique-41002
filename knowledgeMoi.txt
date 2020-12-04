@@ -55,3 +55,13 @@ Web semantique internationnalisation i18n
 Fuzzy logic : https://www.geeksforgeeks.org/prolog-an-introduction/
 
 Web scraping (crawlers): https://www.geeksforgeeks.org/introduction-to-web-scraping/?ref=rp
+
+
+3D -> de Vulkan ou DX12 (connaissance en OpenGL) et des langages de shader associés (GLSL/HLSL)
+   -> OpenGL
+     -> OpenCV
+     JT France 2  Toutankamoun
+JT France 2 semaine du D 20201129 feuilleton Musees
+JT France 2 semaine du D 20201129 invite Mat POKORA -> Telethon -> Therapie geniques -> vaccin ARN m 1ere , rcord vitesse 5 mois au lieu 5 ans.
+JT France 2 semaine du L 20201130 Tunnel sour la manche : - x m ss mer, longueur xx , poigbee de main
+JT France 2 semaine du L 20201130 mort Valery Giscard Destin -> maquettes 3D Vulcania 
