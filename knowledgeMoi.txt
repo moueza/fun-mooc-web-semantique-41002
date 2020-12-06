@@ -69,3 +69,5 @@ JT France 2 semaine du L 20201130 mort Valery Giscard Destin -> maquettes 3D Vul
 
 Mission impossible -> Spectre -> car Aston Martin DB10 -> 1.4 M€
                                  -> thallium
+                                 
+Sentinel -> IT -> algirithm                                
