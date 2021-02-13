@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rdf:RDF xmlns:contact="http://www.w3.org/2000/10/swap/pim/contact#" xmlns:eric="http://www.w3.org/People/EM/contact#"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns="http://xmlns.com/foaf/0.1/"
+     xmlns="http://xmlns.com/foaf/0.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:cert="http://www.w3.org/ns/auth/cert#"
    xmlns:con="http://www.w3.org/2000/10/swap/pim/contact#"
@@ -35,6 +34,6 @@
    
      <rdf:Description rdf:about="http://www.w3.org/">
     <dc:title>World Wide Web Consortium</dc:title> 
-
+  </rdf:Description>
 </rdf:RDF>
 
