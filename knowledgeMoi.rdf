@@ -26,7 +26,7 @@
     <contact:mailbox rdf:resource="mailto:e.miller123(at)example"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.w3.org/People/EM/contact#me">
-    <contact:personalTitle>Dr.</contact:personalTitle>
+    <contact:personalTitle>Mr.</contact:personalTitle>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.w3.org/People/EM/contact#me">
     <rdf:type rdf:resource="http://www.w3.org/2000/10/swap/pim/contact#Person"/>
