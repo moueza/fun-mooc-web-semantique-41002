@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rdf:RDF
-   xmlns="http://xmlns.com/foaf/0.1/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://xmlns.com/foaf/0.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:cert="http://www.w3.org/ns/auth/cert#"
    xmlns:con="http://www.w3.org/2000/10/swap/pim/contact#"
@@ -18,5 +19,22 @@
    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
 >
   
+   <!--from ex1 https://en.wikipedia.org/wiki/Resource_Description_Framework -->
+    <rdf:Description rdf:about="http://www.w3.org/People/EM/contact#me">
+    <contact:fullName>Peter MOUEZA</contact:fullName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/People/EM/contact#me">
+    <contact:mailbox rdf:resource="mailto:e.miller123(at)example"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/People/EM/contact#me">
+    <contact:personalTitle>Dr.</contact:personalTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/People/EM/contact#me">
+    <rdf:type rdf:resource="http://www.w3.org/2000/10/swap/pim/contact#Person"/>
+  </rdf:Description>
+   
+     <rdf:Description rdf:about="http://www.w3.org/">
+    <dc:title>World Wide Web Consortium</dc:title> 
+
 </rdf:RDF>
 
