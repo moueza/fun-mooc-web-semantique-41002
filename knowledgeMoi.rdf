@@ -32,7 +32,15 @@ Exercices de la semaine : Le modèle de données RDF | Contenu du cours 41002 | 
    xmlns:solid="http://www.w3.org/ns/solid/terms#"
    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
 >
-  
+   
+    <!--  Exercices de la semaine : Le modèle de données RDF | Contenu du cours 41002 | FUN-MOOC
+ https://www.fun-mooc.fr/courses/course-v1:inria+41002+self-paced/courseware/72fde761285945bdbdee9aab53e1235c/87c6dc3a8c634893bddf1e438847d4c3/-->  
+   <voc:Man rdf:about="#Simon">
+    <voc:name>Simon</voc:name>
+  </voc:Man>
+   
+   
+   
    <!--from ex1 https://en.wikipedia.org/wiki/Resource_Description_Framework -->
     <rdf:Description rdf:about="http://www.w3.org/People/EM/contact#me">
     <contact:fullName>Peter MOUEZA</contact:fullName>
@@ -56,8 +64,9 @@ Exercices de la semaine : Le modèle de données RDF | Contenu du cours 41002 | 
     <dc:title>World Wide Web Consortium</dc:title> 
           <dc:description>Starting point of my knowledge graph</dc:description>
           
-          <!--Wikipedia protein-->
-          <rdfs:seeAlso rdf:resource="http://purl.uniprot.org/smr/Q61451"/>
+          <!--  protein Retournez sur DBpedia ++++ +++++++ ds source page  n est pas title ms  data-page-title-->
+                  <rdfs:seeAlso rdf:resource="https://www.fun-mooc.fr/courses/course-v1:inria+41002+self-paced/courseware/72fde761285945bdbdee9aab53e1235c/5276946992bb41b8bd119c96a3f4d785/"/>
+        <rdfs:seeAlso rdf:resource="http://purl.uniprot.org/smr/Q61451"/>
           
           <!-- socket  -->
             <!-- socket Blender 
