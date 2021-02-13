@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+
+   <!--  Exercices de la semaine : Le modèle de données RDF | Contenu du cours 41002 | FUN-MOOC
+ https://www.fun-mooc.fr/courses/course-v1:inria+41002+self-paced/courseware/72fde761285945bdbdee9aab53e1235c/87c6dc3a8c634893bddf1e438847d4c3/-->  
+<!DOCTYPE rdf:RDF [
+   <!ENTITY vocabulaire "http://www.unice.fr/voc"> 
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#"> ]>
+ 
+ <!--xmlns:voc="&vocabulaire;#"
+concret ENTITY
+Exercices de la semaine : Le modèle de données RDF | Contenu du cours 41002 | FUN-MOOC
+ https://www.fun-mooc.fr/courses/course-v1:inria+41002+self-paced/courseware/72fde761285945bdbdee9aab53e1235c/87c6dc3a8c634893bddf1e438847d4c3/-->  
 <rdf:RDF xmlns:contact="http://www.w3.org/2000/10/swap/pim/contact#" xmlns:eric="http://www.w3.org/People/EM/contact#"
      xmlns="http://xmlns.com/foaf/0.1/"
+             
+     
+         xmlns:voc="&vocabulaire;#" xml:base="http://www.unice.fr/data"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:cert="http://www.w3.org/ns/auth/cert#"
    xmlns:con="http://www.w3.org/2000/10/swap/pim/contact#"
@@ -28,12 +43,28 @@
   <rdf:Description rdf:about="http://www.w3.org/People/EM/contact#me">
     <contact:personalTitle>Mr.</contact:personalTitle>
   </rdf:Description>
+     
+      <!-- -->  
+      <!--   https://en.wikipedia.org/wiki/Resource_Description_Framework --> 
   <rdf:Description rdf:about="http://www.w3.org/People/EM/contact#me">
     <rdf:type rdf:resource="http://www.w3.org/2000/10/swap/pim/contact#Person"/>
   </rdf:Description>
    
      <rdf:Description rdf:about="http://www.w3.org/">
+          
+         
     <dc:title>World Wide Web Consortium</dc:title> 
+          <dc:description>Starting point of my knowledge graph</dc:description>
+          
+          <!--Wikipedia protein-->
+          <rdfs:seeAlso rdf:resource="http://purl.uniprot.org/smr/Q61451"/>
+          
+          <!-- socket  -->
+            <!-- socket Blender 
+NODES & VOLUMES #138 | Blender.Today LIVE -->
+           <rdfs:seeAlso rdf:resource="https://youtu.be/0zlqKA52TZ4?t=802"/>
+          <!-- websocket   -->
+           <rdfs:seeAlso rdf:resource="https://spring.io/guides/gs/messaging-stomp-websocket/"/>
   </rdf:Description>
 </rdf:RDF>
 
