@@ -75,5 +75,17 @@ NODES & VOLUMES #138 | Blender.Today LIVE -->
           <!-- websocket   -->
            <rdfs:seeAlso rdf:resource="https://spring.io/guides/gs/messaging-stomp-websocket/"/>
   </rdf:Description>
+   
+   
+   <!-- RLC -> Scicos p273 -->
+   
+    <!-- proies sardines   systeme differentiel  epidemic  -> Scicos p169 
+                                                    Scilab p159
+  Scilab n bodies    3-bodies p167systems -->
+       <!-- Data Science -> Financial -> multiobjective -->
+
+     <!-- Moindre carres -> Scilab p143 -->
+   
+   
 </rdf:RDF>
 
