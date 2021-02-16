@@ -10,7 +10,9 @@
  <!--xmlns:voc="&vocabulaire;#"
 concret ENTITY
 Exercices de la semaine : Le modèle de données RDF | Contenu du cours 41002 | FUN-MOOC
- https://www.fun-mooc.fr/courses/course-v1:inria+41002+self-paced/courseware/72fde761285945bdbdee9aab53e1235c/87c6dc3a8c634893bddf1e438847d4c3/-->  
+ https://www.fun-mooc.fr/courses/course-v1:inria+41002+self-paced/courseware/72fde761285945bdbdee9aab53e1235c/87c6dc3a8c634893bddf1e438847d4c3/
+
+inria https://www.fun-mooc.fr/courses/course-v1:inria+41002+self-paced/courseware/72fde761285945bdbdee9aab53e1235c/f4c6187d54cd4c6f9dc247ad240129d5/-->  
 <rdf:RDF xmlns:contact="http://www.w3.org/2000/10/swap/pim/contact#" xmlns:eric="http://www.w3.org/People/EM/contact#"
      xmlns="http://xmlns.com/foaf/0.1/"
              
@@ -31,6 +33,8 @@ Exercices de la semaine : Le modèle de données RDF | Contenu du cours 41002 | 
    xmlns:sioc="http://rdfs.org/sioc/ns#"
    xmlns:solid="http://www.w3.org/ns/solid/terms#"
    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         
+         xmlns:inria="http://inria.fr/schema#"
 >
    
     <!--  Exercices de la semaine : Le modèle de données RDF | Contenu du cours 41002 | FUN-MOOC
@@ -74,6 +78,12 @@ NODES & VOLUMES #138 | Blender.Today LIVE -->
            <rdfs:seeAlso rdf:resource="https://youtu.be/0zlqKA52TZ4?t=802"/>
           <!-- websocket   -->
            <rdfs:seeAlso rdf:resource="https://spring.io/guides/gs/messaging-stomp-websocket/"/>
+        
+        <inria:theme>Knowledge graph</inria:theme>
+        
+            <!-- http://fr.dbpedia.org/data/Sophia_antipolis.rdf   -->
+        <rdfs:label xml:lang="fr">Peter MOUEZA</rdfs:label>
+        
   </rdf:Description>
    
    
