@@ -1,0 +1,33 @@
+@prefix ex: <http://example.org/stage#> .
+
+ex:Stage ex:version "v11" ;
+    ex:competence "Java" ;
+    ex:experience "jardinier" ;
+    ex:competenceSQL "SQL" ;
+    ex:attitude "accroche" ;
+    ex:competenceJava "Java" ;
+    ex:certificationSololearn "https://www.sololearn.com" ;
+    ex:linkedin "https://www.linkedin.com" ;
+    ex:version "v19" ;
+    ex:technologie "ELK" ;
+    ex:pratiques "tests, méthodes agiles" ;
+    ex:titre "Développeur -> DevOps" ;
+    ex:formationCegos "CEGOS in XP PRO" ;
+    ex:note "Place en remontant le haut" ;
+    ex:linkedinUpdate "https://www.linkedin.com/feed/update/urn:li:activity:7024044360258199554/" ;
+    ex:linkedinProfile "https://www.linkedin.com/in/sogeti-mblanchard/" .
+
+ex:TechnologieReseau ex:ordreChrono "89" ;
+    ex:ordreChrono "90" ;
+    ex:ordreChrono "91" ;
+    ex:ordreChrono "92" ;
+    ex:suivant "93 -> 94 -> 95 -> 96" ;
+    ex:suivant "98 -> 100" ;
+    ex:mutualisation "100 : mutualise tech + Pole tel" ;
+    ex:etape "101" ;
+    ex:suivant "100 -> 102 -> 103 -> 104" ;
+    ex:poleTel "104 Pole tel" ;
+    ex:suivant "104 -> 105 -> 109 -> 110 -> 111 -> 112 -> 113" .
+
+ex:Transition ex:de "81 -> 114" ;
+    ex:de "81 -> 115" .
